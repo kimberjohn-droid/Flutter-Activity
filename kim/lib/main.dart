@@ -18,9 +18,9 @@ class MyApp extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.center, 
             children: [
                Icon(
-                    Icons.person, 
-                    size: 50.0,
-                    color: Colors.purple,
+                    Icons.account_circle, 
+                    size: 145.0,
+                    color: Colors.deepPurple,
                   ),
               Text(
                 'Kimber John F. Patio',
